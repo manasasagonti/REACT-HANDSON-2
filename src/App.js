@@ -12,6 +12,8 @@ import FormCompo from './HANDSON-2/FormCompo';
 //   import DisplayComponent from './DisplayComponents.js';
 // import UseEffectCompo from './HOOKS/UseEffectCompo';
 //   import { Button, ButtonClass } from './Button.js';
+// import FormCompo1 from './HANDSON-3/FormCompo1';
+// import Display from './HANDSON-3/Display'
 
 // import DisplayComp from './practice/DisplayComponent';
 
@@ -23,8 +25,10 @@ function App() {
   return (
 
     <div className="App">
-      <Heading />
-      <FormCompo />
+       <Heading />
+      <FormCompo /> 
+      {/* <FormCompo1 />
+      <Display /> */}
       {/* <RouteCompo /> */}
       {/* <UseEffectCompo /> */}
     {/* <Heading />

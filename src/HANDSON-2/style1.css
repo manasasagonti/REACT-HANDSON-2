@@ -1,7 +1,7 @@
 
 
 body{
-    background: linear-gradient(skyblue  , pink , white );
+    background: linear-gradient(skyblue  , pink , white ) no-repeat;
     height: auto;
     
 }
